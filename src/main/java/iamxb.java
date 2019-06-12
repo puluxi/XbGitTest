@@ -7,6 +7,6 @@ public class iamxb {
 
     public void version()
     {
-        System.out.println("感谢观看");
+      //感谢关注
     }
 }
